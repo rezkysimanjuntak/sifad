@@ -1,7 +1,7 @@
 # Petunjuk Instalasi dan Penggunaan
 
 ## Note : Pada contoh Instalasi berikut menggunakan Xampp dan SQLYog.
-1. Ekstrak sifad-master.zip pada folder htdocs Xampp.
+1. Ekstrak sifad-master.zip pada folder htdocs Xampp. (Jika folder bernama sifad-master rename saja jadi sifad)
 2. Ekstrak Data1.zip dan Data2.zip pada lokasi folder sifad.
 3. Jika sudah buka cmd pada folder sifad kemudian masukkan command :
    - composer install
