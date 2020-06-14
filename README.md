@@ -7,8 +7,13 @@
    - composer install
    - npm install
 4. Kemudian buka SQLYog kemudian execute semua query yang terdapat pada sifaddb.sql
-5. Lalu buka Xampp Control Panel kemudian Start Apache dan MySQL.
-6. Langkah terakhir tinggal buka url dari sifad yaitu : http://localhost/sifad/public/
-7. Pada saat muncul menu login masukkan username dan password default administrator :
+5. Tambahkan user database baru dengan :
+   - username : admin
+   - password : admin
+   - host     : localhost
+   (Dan pastikan user memiliki akses user Global Privileges "centang semua pilihan yang ada")
+6. Lalu buka Xampp Control Panel kemudian Start Apache dan MySQL.
+7. Langkah terakhir tinggal buka url dari sifad yaitu : http://localhost/sifad/public/
+8. Pada saat muncul menu login masukkan username dan password default administrator :
    - Username : admin
    - Password : password
