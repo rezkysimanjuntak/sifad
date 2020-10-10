@@ -1,3 +1,6 @@
+SiFAD - Sistem Informasi Akademik
+Antarmuka Sistem Informasi Manajemen Sekolah Dasar
+
 # Petunjuk Instalasi dan Penggunaan
 
 ## Note : Pada contoh Instalasi berikut menggunakan Xampp dan SQLYog.
