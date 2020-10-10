@@ -1,4 +1,5 @@
 SiFAD - Sistem Informasi Akademik
+
 Antarmuka Sistem Informasi Manajemen Sekolah Dasar
 
 # Petunjuk Instalasi dan Penggunaan
